@@ -1,8 +1,8 @@
 import React from 'react';
 
-import VerticalNav4 from '../components/vertical-navs/VerticalNav4';
-import Header4 from '../components/headers/Header4';
-import Footer3 from '../components/footers/Footer3';
+import VerticalNav4 from '../components/vertical-navs/VerticalNav';
+import Header4 from '../components/headers/Header';
+import Footer3 from '../components/footers/Footer';
 
 export default function Index() {
   return (

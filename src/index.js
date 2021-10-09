@@ -5,7 +5,7 @@ import { ThemeProvider } from "@material-ui/core/styles";
 import { Provider } from "react-redux";
 
 import App from "./App";
-import { store } from "./app/store";
+import { store } from "./redux/store";
 import theme from "./theme/theme";
 
 const rootElement = document.querySelector("#root");

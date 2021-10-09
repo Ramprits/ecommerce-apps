@@ -1,6 +1,6 @@
 import React from 'react';
 
-import HttpCode4 from '../components/http-codes/HttpCode4';
+import HttpCode4 from '../components/http-codes/HttpCode';
 
 export default function Notfound() {
   return (
